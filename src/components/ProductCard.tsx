@@ -37,7 +37,10 @@ export const ProductCard = ({ children, product, className, style, onChange, val
             product,
             maxCount
         }}>
-            <div style={style} className={ `${styles.productCard} ${ className }` }>
+            <div 
+                style={style} 
+                className={ `${styles.productCard} ${ className }` }
+            >
                 {/* React no puede renderizar una fción no puedo poner acá () => children 
                 pero si puede ejecutarla*/}
                 { 
