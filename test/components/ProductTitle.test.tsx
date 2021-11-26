@@ -3,7 +3,7 @@ import renderer from 'react-test-renderer'
 import { ProductTitle, ProductCard } from '../../src/components';
 import { product1 } from '../data/products';
 
-product1
+
 describe('ProductTitle', () => {
     test('debe mostrar el componente correctamente con el título personalizado', () => {
         
