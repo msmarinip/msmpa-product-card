@@ -1,11 +1,11 @@
-# msm-Product-Card
+# msmpa-Product-Card
 Este es un paquete de pruebas de despliegue en NPM
 
 ### Soledad Marini
 
 ## Ejemplo
 ```
-import { ProductCard,    ProductImage, ProductTitle,    ProductButtons} from msm-product-card
+import { ProductCard,    ProductImage, ProductTitle,    ProductButtons} from msmpa-product-card
 ```
 ```
 <ProductCard 

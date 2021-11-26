@@ -22,7 +22,7 @@ const App = () => {
         }}
         >
         {
-            // ( args ) => (
+            
             ({ reset, increaseBy, isMaxCountReached, count, maxCount }) => (
                 <>
                     <ProductImage/>
